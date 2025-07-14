@@ -88,7 +88,7 @@ Définir pour les environnements : Production, Preview, Development.
 
 ## 6. Lien vers le site
 
-Le site est accessible à cette adresse : **https://carte-chez-alphonse.vercel.app**
+Le site est accessible à cette adresse : **https://carte-chez-alphonse.fr/#/**
 
 ---
 
